@@ -1,0 +1,15 @@
+C:\Users\bmcwa\OneDrive\Desktop\Repo\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net6.0\SyntaxSugarExercise.exe
+C:\Users\bmcwa\OneDrive\Desktop\Repo\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net6.0\SyntaxSugarExercise.deps.json
+C:\Users\bmcwa\OneDrive\Desktop\Repo\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net6.0\SyntaxSugarExercise.runtimeconfig.json
+C:\Users\bmcwa\OneDrive\Desktop\Repo\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net6.0\SyntaxSugarExercise.dll
+C:\Users\bmcwa\OneDrive\Desktop\Repo\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net6.0\ref\SyntaxSugarExercise.dll
+C:\Users\bmcwa\OneDrive\Desktop\Repo\SyntaxSugarExercise\SyntaxSugarExercise\bin\Debug\net6.0\SyntaxSugarExercise.pdb
+C:\Users\bmcwa\OneDrive\Desktop\Repo\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\SyntaxSugarExercise.csproj.AssemblyReference.cache
+C:\Users\bmcwa\OneDrive\Desktop\Repo\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\SyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmcwa\OneDrive\Desktop\Repo\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\SyntaxSugarExercise.AssemblyInfoInputs.cache
+C:\Users\bmcwa\OneDrive\Desktop\Repo\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\SyntaxSugarExercise.AssemblyInfo.cs
+C:\Users\bmcwa\OneDrive\Desktop\Repo\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\SyntaxSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\bmcwa\OneDrive\Desktop\Repo\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\SyntaxSugarExercise.dll
+C:\Users\bmcwa\OneDrive\Desktop\Repo\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\ref\SyntaxSugarExercise.dll
+C:\Users\bmcwa\OneDrive\Desktop\Repo\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\SyntaxSugarExercise.pdb
+C:\Users\bmcwa\OneDrive\Desktop\Repo\SyntaxSugarExercise\SyntaxSugarExercise\obj\Debug\net6.0\SyntaxSugarExercise.genruntimeconfig.cache
